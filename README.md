@@ -1,5 +1,5 @@
 # likelion-page
-LL 1st, LikeLion introduction page<br><br><br>
+LL 1st, LikeLion introduction page<br><br>
 
 
 👉 introduce LikeLion<br>
